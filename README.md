@@ -1,12 +1,11 @@
 # Prompt Engineering Resources
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) - Prompt Engineering Tutorial
 
-Prompt engineering is the art and science of crafting prompts to get desired results from large language models (LLMs). This repository compiles an opinionated simple list of free resources on prompt engineering and LLMs, covering official guides, industry insights, tutorials, and advanced techniques, including my own interactive tutorial.
+A carefully curated list of high-quality resources for learning prompt engineering with Large Language Models (LLMs). Prompt engineering is the art and science of crafting prompts to get desired results from large language models (LLMs).
 
 ---
 
 ## 📖 "Official" Guides
-
+Selected guides from major LLM providers:
 - [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
@@ -15,7 +14,7 @@ Prompt engineering is the art and science of crafting prompts to get desired res
 ---
 
 ## 🔍 Lessons from the Industry
-
+Real-world insights from practitioners:
 - [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)  
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)  
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
@@ -25,8 +24,8 @@ Prompt engineering is the art and science of crafting prompts to get desired res
 ---
 
 ## 🎓 Tutorials & Guides
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) - Yew Jin's Prompt Engineering Tutorial
 
-- [Yew Jin's Interactive Colab](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)  
 - [Learn Prompting](https://learnprompting.org)  
 - [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
 - [Prompt Engineering Guide (DAIR AI)](https://promptingguide.ai/)  
@@ -52,9 +51,10 @@ Since Model Context Protocol (MCP) is the new hotness, noteing that MCP is an op
 ---
 
 ## 🚀 Contributing
-
-This is an **open-source effort** to provide the best free resources for learning and mastering **prompt engineering** and **LLMs**.  
-If you know of any valuable **free** resources, feel free to **submit a PR** or open an issue in this repository!  
+We prioritize quality over quantity. To contribute:
+1. Ensure the resource offers unique insights not covered by existing entries
+2. Include a one-line description of what makes it valuable
+3. Submit a PR with your suggestion
 
 ---
   
