@@ -38,8 +38,8 @@ Prompt engineering is the art and science of crafting prompts to get desired res
 Additional high-quality **GitHub repositories** and **resources** for learning about LLMs, fine-tuning, and deployment:
 
 ### General LLM & AI Learning Resources
-- **[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)** – hand-curated resources for Prompt Engineering. 
-- **[Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM)** – A collection of the most important papers on LLMs.  
+- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) – hand-curated resources for Prompt Engineering. 
+- [Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM) – A collection of the most important papers on LLMs.  
 
 ### Model Context Protocol (MCP) – Standardizing AI Tool & Data Integration
 
