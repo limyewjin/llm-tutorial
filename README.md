@@ -1,37 +1,69 @@
-# Prompt Engineering Tutorial and Resources
-
+# Prompt Engineering Resources
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)
 
-An interactive tutorial to help you master the art of prompt engineering with Large Language Models (LLMs).
+Prompt engineering is the art and science of crafting prompts to get desired results from large language models (LLMs). This repository compiles **the best free resources** on prompt engineering, covering **official guides, industry insights, tutorials, and advanced techniques**, including an interactive tutorial.
 
-## Overview
+---
 
-This tutorial provides hands-on experience with prompt engineering techniques, tested with Google's Gemini models. Geared towards beginner practitioners of LLMs, this tutorial offers practical exercises and best practices for crafting effective prompts.
+## 📖 "Official" Guides
 
-## Prerequisites
+- [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)  
+- [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)  
+- [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
+- [Cohere’s Guide to Crafting Effective Prompts](https://docs.cohere.com/docs/prompt-engineering)  
 
-- [Google AI Studio](https://aistudio.google.com/) account
-- Gemini API key ([Get an API key](https://aistudio.google.com/app/apikey))
-- Some familiarity with Python (recommended)
+---
 
-## Getting Started
+## 🔍 Lessons from the Industry
 
-**Setup Environment**
- - Clone this repository or just click on [colab](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) to run in browser
- - Follow the installation instructions in colab
+- [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)  
+- [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)  
+- [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
+- [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)  
 
-# Resources
+---
 
-## "Official" guides
+## 🎓 High-Quality Tutorials & Guides
 
-- [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)
-- [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
-- [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+- [Yew Jin's Interactive Colab](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)  
+- [Learn Prompting](https://learnprompting.org)  
+- [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
+- [Prompt Engineering Guide (DAIR AI)](https://promptingguide.ai/)  
+- [Anthropic’s Claude Prompting Notebook](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
 
-## Lessons from the industry
+---
 
-- [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
-- [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
-- [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
-- [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
-- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
+## 🛠 More LLM Learning Resources
+
+Additional high-quality **GitHub repositories** and **resources** for learning about LLMs, fine-tuning, and deployment:
+
+### General LLM & AI Learning Resources
+- **[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)** – hand-curated resources for Prompt Engineering. 
+- **[Awesome LLM Papers](https://github.com/huggingface/awesome-llm-papers)** – A collection of the most important papers on LLMs.  
+
+### Model Context Protocol (MCP) – Standardizing AI Tool & Data Integration
+
+**[Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)** is an open protocol that allows LLMs to access **external data sources** and **execute actions** via structured tools. It eliminates the need for one-off API integrations, making it easier to build AI assistants that can fetch **relevant context** and interact with applications in a **safe, controlled way**.
+
+#### Why MCP Matters for Prompt Engineering
+- **Retrieval-Augmented Generation (RAG) Simplified** – Use MCP to **dynamically fetch** relevant documents, databases, or knowledge bases **on demand**, rather than stuffing context into prompts manually.
+- **AI Agents with Tool Use** – MCP provides a structured interface for LLMs to invoke **tools**, enabling **function calling** and **workflow automation** beyond simple chat interactions.
+- **Human-in-the-Loop Control** – Users can **approve AI actions**, ensuring safe and auditable AI operations.
+- **Model-Agnostic Integration** – Unlike OpenAI Plugins, MCP works with **any AI client** that supports the protocol (e.g., Claude, VS Code AI Assistants, etc.).
+
+#### Key MCP Learning Resources
+- [MCP Introduction & Docs](https://modelcontextprotocol.io/introduction) – Official documentation and protocol overview.  
+- [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) – A curated list of tools and applications implementing MCP.  
+- [MCP GitHub Repositories](https://github.com/modelcontextprotocol) – Official SDKs (Python, TypeScript, Java) and example implementations.  
+
+---
+
+## 🚀 Contributing
+
+This is an **open-source effort** to provide the best free resources for learning and mastering **prompt engineering** and **LLMs**.  
+If you know of any valuable **free** resources, feel free to **submit a PR** or open an issue in this repository!  
+
+---
+  
+Happy Prompting! 🚀
