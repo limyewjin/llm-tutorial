@@ -24,7 +24,7 @@ Prompt engineering is the art and science of crafting prompts to get desired res
 
 ---
 
-## 🎓 High-Quality Tutorials & Guides
+## 🎓 Tutorials & Guides
 
 - [Yew Jin's Interactive Colab](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)  
 - [Learn Prompting](https://learnprompting.org)  
