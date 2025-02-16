@@ -16,7 +16,7 @@ This tutorial provides hands-on experience with prompt engineering techniques, t
 ## Getting Started
 
 **Setup Environment**
- - Clone this repository or just click on colab to run in browser
+ - Clone this repository or just click on [colab](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) to run in browser
  - Follow the installation instructions in colab
 
 # Resources
