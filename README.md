@@ -1,6 +1,6 @@
 # Prompt Engineering Resources
 
-A carefully curated list of high-quality resources for learning prompt engineering with Large Language Models (LLMs). Prompt engineering is the art and science of crafting prompts to get desired results from large language models (LLMs).
+A carefully curated list of high-quality resources for learning prompt engineering with Large Language Models. Prompt engineering is the art and science of crafting prompts to get desired results from LLMs.
 
 ---
 
