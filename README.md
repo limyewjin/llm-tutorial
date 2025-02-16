@@ -6,14 +6,13 @@ An interactive tutorial to help you master the art of prompt engineering with La
 
 ## Overview
 
-This tutorial provides hands-on experience with prompt engineering techniques, tested with Google's Gemini models. Whether you're new to working with LLMs or looking to refine your skills, this tutorial offers practical exercises and best practices for crafting effective prompts.
+This tutorial provides hands-on experience with prompt engineering techniques, tested with Google's Gemini models. Geared towards beginner practitioners of LLMs, this tutorial offers practical exercises and best practices for crafting effective prompts.
 
 ## Prerequisites
 
-- Google AI Studio account
-- Gemini API key
-- Basic understanding of LLMs
-- Familiarity with Python (recommended)
+- [Google AI Studio](https://aistudio.google.com/) account
+- Gemini API key ([Get an API key](https://aistudio.google.com/app/apikey))
+- Some familiarity with Python (recommended)
 
 ## Getting Started
 
