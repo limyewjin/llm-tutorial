@@ -21,7 +21,7 @@ Real-world insights from practitioners:
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
 - [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
 - [ZenML's LLMOps in Production: 457 Case Studies of What Actually Works](https://www.zenml.io/blog/llmops-in-production-457-case-studies-of-what-actually-works)
-- [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead) - (Editor's note: Prompt engineering is still important for now.)
+- [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead) - (Editor's note: Prompt engineering is still important for now. See [Short Note on Autotuned Prompting](#short-note-on-autotuned-prompting))
 
 ---
 
@@ -56,6 +56,17 @@ Since Model Context Protocol (MCP) is the new hotness, noting that MCP is an ope
 - [MCP Introduction & Docs](https://modelcontextprotocol.io/introduction) – Official documentation and protocol overview.  
 - [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) – A curated list of tools and applications implementing MCP.  
 - [MCP GitHub Repositories](https://github.com/modelcontextprotocol) – Official SDKs (Python, TypeScript, Java) and example implementations.  
+
+---
+
+## Short Note on Autotuned Prompting
+
+Even in [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead), there is a quote at the end:
+> I think there are going to be prompt engineers for quite some time, and data scientists.
+> It’s not just asking questions of the LLM and making sure that the answer looks good.
+> But there’s a raft of things that prompt engineers really need to be able to do.
+
+Autotuning prompts are based on optimization techniques, but they lack human intuition about intent, user experience, and real-world applicability. LLMs are often deployed in scenarios where nuance, tone, and user expectations play a critical role—things that a human-crafted prompt can better align with. Autotuning techniques can help automate certain aspects of prompt generation, but human expertise in designing, refining, and adapting prompts remains critical—especially for complex, dynamic, and user-facing applications.
 
 ---
 
