@@ -43,7 +43,7 @@ Additional high-quality **GitHub repositories** and **resources** for learning a
 
 ### Model Context Protocol (MCP) – Standardizing AI Tool & Data Integration
 
-Model Context Protocol (MCP) is an open protocol that allows LLMs to access **external data sources** and **execute actions** via structured tools. It eliminates the need for one-off API integrations, making it easier to build AI assistants that can fetch **relevant context** and interact with applications in a **safe, controlled way**.
+Since Model Context Protocol (MCP) is the new hotness, noteing that MCP is an open protocol that allows LLMs to access **external data sources** and **execute actions** via structured tools. It eliminates the need for one-off API integrations, making it easier to build AI assistants that can fetch **relevant context** and interact with applications in a **safe, controlled way**.
 
 - [MCP Introduction & Docs](https://modelcontextprotocol.io/introduction) – Official documentation and protocol overview.  
 - [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) – A curated list of tools and applications implementing MCP.  
