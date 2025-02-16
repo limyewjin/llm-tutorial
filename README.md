@@ -1,4 +1,4 @@
-# Prompt Engineering Resources
+# YJ's Prompt Engineering List
 
 A carefully curated list of high-quality resources for learning prompt engineering with Large Language Models. Prompt engineering is the art and science of crafting prompts to get desired results from LLMs.
 
