@@ -30,7 +30,6 @@ Prompt engineering is the art and science of crafting prompts to get desired res
 - [Learn Prompting](https://learnprompting.org)  
 - [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
 - [Prompt Engineering Guide (DAIR AI)](https://promptingguide.ai/)  
-- [Anthropic’s Claude Prompting Notebook](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
 
 ---
 
