@@ -34,3 +34,4 @@ This tutorial provides hands-on experience with prompt engineering techniques, t
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
