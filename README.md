@@ -1,5 +1,5 @@
 # Prompt Engineering Resources
-Prompt Engineering Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) - Prompt Engineering Tutorial
 
 Prompt engineering is the art and science of crafting prompts to get desired results from large language models (LLMs). This repository compiles **the best free resources** on prompt engineering, covering **official guides, industry insights, tutorials, and advanced techniques**, including an interactive tutorial.
 
