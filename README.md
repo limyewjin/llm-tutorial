@@ -1,5 +1,7 @@
 # Interactive Prompt Engineering Tutorial
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb)
+
 An interactive tutorial to help you master the art of prompt engineering with Large Language Models (LLMs).
 
 ## Overview
