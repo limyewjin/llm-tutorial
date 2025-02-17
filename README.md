@@ -19,26 +19,26 @@ Real-world insights from practitioners:
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)  
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
-- [OpenAI reasoning models: Advice on prompting](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/?utm_source=chatgpt.com) - Simon Willison's blog post on prompt engineering with reasoning models (at least OpenAI's ones)
-- [AI prompt engineering: A deep dive (YouTube)](https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic) by Anthropic - reflections on how prompt engineering has evolved, practical tips, and thoughts on how prompting might change as AI capabilities grow.
+- [OpenAI reasoning models: Advice on prompting](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/?utm_source=chatgpt.com) — Simon Willison's blog post on prompt engineering with reasoning models (at least OpenAI's ones)
+- [AI prompt engineering: A deep dive (YouTube)](https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic) by Anthropic — reflections on how prompt engineering has evolved, practical tips, and thoughts on how prompting might change as AI capabilities grow.
 
 ---
 
 ## 🕵️ AI Agents
 - [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities (YouTube)](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
-- [Building effective agents](https://www.anthropic.com/research/building-effective-agents) from Anthropic - also see [Tips for building AI agents (YouTube)](https://www.youtube.com/watch?v=LP5OCa20Zpg&ab_channel=Anthropic)
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents) from Anthropic — also see [Tips for building AI agents (YouTube)](https://www.youtube.com/watch?v=LP5OCa20Zpg&ab_channel=Anthropic)
   
 ---
 
 ## 📝 Papers
-- [The Prompt Report: A Systematic Survey of Prompting Techniques (Schulhoff et al., 2024)](https://arxiv.org/abs/2402.07927) – A comprehensive taxonomy of 58 prompting techniques comparing their effectiveness in LLM-based applications.
-- [Prompt Design and Engineering: Introduction and Advanced Methods (Amatriain, 2024)](https://arxiv.org/abs/2401.14423) – A structured overview of fundamental and advanced prompting techniques, including Chain-of-Thought, Reflection, and AI agent design.
-- [Chain-of-Thought Prompting (Wei et al., 2022)](https://arxiv.org/abs/2201.11903) – A seminal paper that showed how giving a model a chain of thought, i.e. prompting it with step-by-step reasoning examples, dramatically improves performance on complex tasks
+- [The Prompt Report: A Systematic Survey of Prompting Techniques (Schulhoff et al., 2024)](https://arxiv.org/abs/2402.07927) — A comprehensive taxonomy of 58 prompting techniques comparing their effectiveness in LLM-based applications.
+- [Prompt Design and Engineering: Introduction and Advanced Methods (Amatriain, 2024)](https://arxiv.org/abs/2401.14423) — A structured overview of fundamental and advanced prompting techniques, including Chain-of-Thought, Reflection, and AI agent design.
+- [Chain-of-Thought Prompting (Wei et al., 2022)](https://arxiv.org/abs/2201.11903) — A seminal paper that showed how giving a model a chain of thought, i.e. prompting it with step-by-step reasoning examples, dramatically improves performance on complex tasks
 
 ---
 
 ## 🎓 Tutorials & Guides
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) - YJ's Prompt Engineering Tutorial
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/limyewjin/llm-tutorial/blob/main/Prompt_Engineering_Tutorial.ipynb) — YJ's Prompt Engineering Tutorial
 
 - [Learn Prompting](https://learnprompting.org)  
 - [ChatGPT Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)  
@@ -48,8 +48,8 @@ Real-world insights from practitioners:
 
 ## 🛠 More LLM Learning Resources
 Additional high-quality **GitHub repositories** and **resources** for learning about LLMs, fine-tuning, and deployment:
-- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) – hand-curated resources for Prompt Engineering. 
-- [Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM) – A collection of the most important papers on LLMs.  
+- [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — hand-curated resources for Prompt Engineering. 
+- [Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM) — A collection of the most important papers on LLMs.  
 
 ---
 
