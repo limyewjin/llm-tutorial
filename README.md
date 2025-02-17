@@ -32,8 +32,8 @@ Real-world insights from practitioners:
 
 ## 📝 Papers
 - [The Prompt Report: A Systematic Survey of Prompting Techniques (Schulhoff et al., 2024)](https://arxiv.org/abs/2402.07927) – A comprehensive taxonomy of 58 prompting techniques comparing their effectiveness in LLM-based applications.
+- [Prompt Design and Engineering: Introduction and Advanced Methods (Amatriain, 2024)](https://arxiv.org/abs/2401.14423) – A structured overview of fundamental and advanced prompting techniques, including Chain-of-Thought, Reflection, and AI agent design.
 - [Chain-of-Thought Prompting (Wei et al., 2022)](https://arxiv.org/abs/2201.11903) – A seminal paper that showed how giving a model a chain of thought, i.e. prompting it with step-by-step reasoning examples, dramatically improves performance on complex tasks
-- [Prompt Design and Engineering: Introduction and Advanced Methods (Amatriain, 2024)](https://arxiv.org/abs/2401.07140) – A structured overview of fundamental and advanced prompting techniques, including Chain-of-Thought, Reflection, and AI agent design.
 
 ---
 
