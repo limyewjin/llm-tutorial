@@ -47,20 +47,9 @@ Real-world insights from practitioners:
 ---
 
 ## 🛠 More LLM Learning Resources
-
 Additional high-quality **GitHub repositories** and **resources** for learning about LLMs, fine-tuning, and deployment:
-
-### General LLM & AI Learning Resources
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) – hand-curated resources for Prompt Engineering. 
 - [Awesome LLM Papers](https://github.com/Hannibal046/Awesome-LLM) – A collection of the most important papers on LLMs.  
-
-### Model Context Protocol (MCP) – Standardizing AI Tool & Data Integration
-
-Since Model Context Protocol (MCP) is the new hotness, noting that MCP is an open protocol that allows LLMs to access **external data sources** and **execute actions** via structured tools. It eliminates the need for one-off API integrations, making it easier to build AI assistants that can fetch **relevant context** and interact with applications in a **safe, controlled way**.
-
-- [MCP Introduction & Docs](https://modelcontextprotocol.io/introduction) – Official documentation and protocol overview.  
-- [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) – A curated list of tools and applications implementing MCP.  
-- [MCP GitHub Repositories](https://github.com/modelcontextprotocol) – Official SDKs (Python, TypeScript, Java) and example implementations.  
 
 ---
 
