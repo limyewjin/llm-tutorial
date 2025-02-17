@@ -19,10 +19,15 @@ Real-world insights from practitioners:
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)  
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
-- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
 - [OpenAI reasoning models: Advice on prompting](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/?utm_source=chatgpt.com) - Simon Willison's blog post on prompt engineering with reasoning models (at least OpenAI's ones)
 - [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead) - (Editor's note: Prompt engineering is still important for now. See [Short Note on Autotuned Prompting](#short-note-on-autotuned-prompting))
 
+---
+
+## 🕵️ AI Agents
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents) from Anthropic - also see [Tips for building AI agents (YouTube)](https://www.youtube.com/watch?v=LP5OCa20Zpg&ab_channel=Anthropic)
+  
 ---
 
 ## 📝 Papers
