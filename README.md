@@ -20,20 +20,20 @@ Real-world insights from practitioners:
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
 - [OpenAI reasoning models: Advice on prompting](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/?utm_source=chatgpt.com) - Simon Willison's blog post on prompt engineering with reasoning models (at least OpenAI's ones)
-- [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead) - (Editor's note: Prompt engineering is still important for now. See [Short Note on Autotuned Prompting](#short-note-on-autotuned-prompting))
+- [AI prompt engineering: A deep dive (YouTube)](https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic) by Anthropic - reflections on how prompt engineering has evolved, practical tips, and thoughts on how prompting might change as AI capabilities grow.
 
 ---
 
 ## 🕵️ AI Agents
-- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities (YouTube)](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) from Anthropic - also see [Tips for building AI agents (YouTube)](https://www.youtube.com/watch?v=LP5OCa20Zpg&ab_channel=Anthropic)
   
 ---
 
 ## 📝 Papers
-- [Survey of Prompt Engineering (Sahoo et al., 2024)](https://arxiv.org/abs/2402.07927) – A systematic survey that reviews and organizes recent prompt engineering techniques for LLMs
+- [The Prompt Report: A Systematic Survey of Prompting Techniques (Schulhoff et al., 2024)](https://arxiv.org/abs/2402.07927) – A comprehensive taxonomy of 58 prompting techniques comparing their effectiveness in LLM-based applications.
 - [Chain-of-Thought Prompting (Wei et al., 2022)](https://arxiv.org/abs/2201.11903) – A seminal paper that showed how giving a model a chain of thought, i.e. prompting it with step-by-step reasoning examples, dramatically improves performance on complex tasks
-- [AutoPrompt: Automatically Generated Prompts (Shin et al., 2020)](https://arxiv.org/abs/2010.15980) – An early influential paper that proposed an automated way to discover effective prompts.
+- [Prompt Design and Engineering: Introduction and Advanced Methods (Amatriain, 2024)](https://arxiv.org/abs/2401.07140) – A structured overview of fundamental and advanced prompting techniques, including Chain-of-Thought, Reflection, and AI agent design.
 
 ---
 
@@ -55,7 +55,7 @@ Additional high-quality **GitHub repositories** and **resources** for learning a
 
 ## Short Note on Autotuned Prompting
 
-Even in [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead), there is a quote at the end:
+Even in an article titled [AI Prompt Engineering Is Dead](https://spectrum.ieee.org/prompt-engineering-is-dead), there is a quote at the end:
 > I think there are going to be prompt engineers for quite some time, and data scientists.
 > It’s not just asking questions of the LLM and making sure that the answer looks good.
 > But there’s a raft of things that prompt engineers really need to be able to do.
