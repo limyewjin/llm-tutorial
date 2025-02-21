@@ -10,7 +10,7 @@ Real-world insights from practitioners:
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)  
 - [What We Learned from a Year of Building with LLMs (Part III): Strategy](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)  
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
-- [OpenAI reasoning models: Advice on prompting](https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/?utm_source=chatgpt.com) — Simon Willison's blog post on prompt engineering with reasoning models (at least OpenAI's ones)
+- [Reasoning (models) best practices](https://platform.openai.com/docs/guides/reasoning-best-practices) — OpenAI's guide to building with reasoning models (such as OpenAI o1 and o3-mini) as they are different from using  GPT models
 - [AI prompt engineering: A deep dive (YouTube)](https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic) by Anthropic — reflections on how prompt engineering has evolved, practical tips, and thoughts on how prompting might change as AI capabilities grow.
 
 ---
