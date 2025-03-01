@@ -33,7 +33,6 @@ Selected guides from major LLM providers:
 - [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
-- [Cohere’s Guide to Crafting Effective Prompts](https://docs.cohere.com/docs/prompt-engineering)  
 
 ---
 
