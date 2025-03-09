@@ -12,6 +12,7 @@ Real-world insights from practitioners:
 - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)  
 - [Reasoning (models) best practices](https://platform.openai.com/docs/guides/reasoning-best-practices) — OpenAI's guide to building with reasoning models (such as OpenAI o1 and o3-mini) as they are different from using  GPT models
 - [AI prompt engineering: A deep dive (YouTube)](https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic) by Anthropic — reflections on how prompt engineering has evolved, practical tips, and thoughts on how prompting might change as AI capabilities grow.
+- [AI Revolution: What Nobdy Else is Seeing](https://www.youtube.com/watch?v=0LMK5JYkB94&) - YC's Lightcone podcast where YC folks gathered insights about the AI revolution. One insight from this video: the most valuable asset an AI company built wasn't their codebase—it was their evaluation dataset (8-minute mark). The carefully labeled "gold standard" that defines what correct AI outputs should look like.
 
 ---
 
