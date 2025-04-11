@@ -32,6 +32,7 @@ Real-world insights from practitioners:
 
 ## 📖 "Official" Guides
 Selected guides from major LLM providers:
+- [Google whitepaper on prompt engineering (kaggle.com)](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
