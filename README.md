@@ -33,6 +33,7 @@ Real-world insights from practitioners:
 ## 📖 "Official" Guides
 Selected guides from major LLM providers:
 - [Google whitepaper on prompt engineering (kaggle.com)](https://www.kaggle.com/whitepaper-prompt-engineering)
+- [GPT 4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide) — "important prompting tips derived from extensive internal testing to help developers fully leverage the improved abilities of this new model family" (GPT-4.1 family)
 - [Introduction to prompt design - Gemini API](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Prompt engineering guide - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [Anthropic's Prompt Engineering Interactive Tutorial - Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial)  
