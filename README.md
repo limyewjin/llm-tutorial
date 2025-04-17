@@ -17,6 +17,7 @@ Real-world insights from practitioners:
 ---
 
 ## 🕵️ AI Agents
+- [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) from OpenAI
 - [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities (YouTube)](https://www.youtube.com/watch?v=eBVi_sLaYsc&ab_channel=YCombinator) and in particular see [20:40 - Approaching prompt engineering step by step](https://www.youtube.com/watch?v=eBVi_sLaYsc&t=1240s)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) from Anthropic — also see [Tips for building AI agents (YouTube)](https://www.youtube.com/watch?v=LP5OCa20Zpg&ab_channel=Anthropic)
   
